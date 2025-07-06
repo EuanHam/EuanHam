@@ -1,3 +1,3 @@
 - Hey I'm Euan Ham! I'm a CS and Linguistics student at Georgia Tech 🐝 
 - My interests lie in computer graphics, fullstack development, and natural language processing
-- I'm currently working on [Threeify](https://www.youtube.com/watch?v=JNPZ87aYXOs), a web record player visualized with Three.js.
+- I'm currently working on [Threeify](https://www.youtube.com/watch?v=JNPZ87aYXOs), a web record player visualized with Three.js
