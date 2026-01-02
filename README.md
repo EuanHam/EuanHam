@@ -5,7 +5,7 @@
 - Check out my portfolio [here](https://euan.vercel.app/)!
 
 ## My Stack
-[![My Skills](https://skillicons.dev/icons?i=python,ts,java,cs,nextjs,tailwind,numpy,aws,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,java,cs,nextjs,tailwind,pytorch,aws,unity,p5js)](https://skillicons.dev)
 
 More info!:
 - Outside of coding, I'm into skill toys, performing music, and reading!
