@@ -10,4 +10,3 @@
 More info!:
 - Outside of coding, I'm into skill toys, performing music, and reading!
 - You can contact me at euanham05 [at] gmail [dot] com
-- 
