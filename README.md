@@ -1,6 +1,6 @@
 ## Hey!
-- I'm Euan, a CS and Linguistics student at Georgia Tech currently intererning at Advanced Auto Parts 🐝
-- My interests lie in fullstack development, computer graphics, and natural language processing
+- I'm Euan, a CS and Linguistics student at Georgia Tech currently interning at Advanced Auto Parts 🐝
+- My interests lie in full stack development, computer graphics, and natural language processing
 - I'm currently working on [Mizuya](https://github.com/EuanHam/mizuya-scraper), a RESTful API that aggregates matcha tea product availability with AWS integration
 - Check out my portfolio [here](https://euan.vercel.app/)!
 
