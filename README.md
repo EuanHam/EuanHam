@@ -1,6 +1,7 @@
 ## Hey!
-- I'm Euan, a CS and Linguistics student at Georgia Tech currently interning at Advanced Auto Parts 🐝
+- I'm Euan, a CS and Linguistics student at Georgia Tech currently interning at Vanguard 🐝
 - My interests lie in full stack development, computer graphics, and natural language processing
+- I was previously a SWE Intern for Advance Auto Parts and developed for Bits of Good!
 - I'm currently working on [Mizuya](https://github.com/EuanHam/mizuya-scraper), a RESTful API that aggregates matcha tea product availability with AWS integration
 - Check out my portfolio [here](https://euan.vercel.app/)!
 
